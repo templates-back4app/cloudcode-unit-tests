@@ -24,7 +24,7 @@
     "mongodb": "^2.2.30",
     "mongodb-runner": "^3.5.0",
     "parse": "^1.10.0",
-    "parse-server": "^2.5.3",
+    "parse-server": ">=3.4.1",
     "parse-server-test-runner": "^1.0.0"
   }
 }
