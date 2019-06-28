@@ -1,0 +1,30 @@
+{
+  "name": "back4approject",
+  "version": "1.0.0",
+  "description": "Back4App guide using for reference the Parse Server Test Runner",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [
+    "parse",
+    "parse-server",
+    "testing",
+    "tests"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "express": "latest",
+    "mongodb": "^2.2.30",
+    "mongodb-runner": "^3.5.0",
+    "parse": "^1.10.0",
+    "parse-server": "^2.5.3",
+    "parse-server-test-runner": "^1.0.0"
+  }
+}
