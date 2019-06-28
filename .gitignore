@@ -1,7 +1,7 @@
-unit-test-sample/Back4AppProject/node_modules
+Back4AppProject/node_modules
 
-unit-test-sample/Back4AppProject/logs
+Back4AppProject/logs
 
-unit-test-sample/Back4AppProject/JasmineApp/.parse.*
+Back4AppProject/JasmineApp/.parse.*
 
-unit-test-sample/Back4AppProject/package-lock.json
+Back4AppProject/package-lock.json
