@@ -21,7 +21,7 @@
   "dependencies": {
     "bluebird": "^3.5.0",
     "express": "latest",
-    "mongodb": "^2.2.30",
+    "mongodb": "^3.6.1",
     "mongodb-runner": "^3.5.0",
     "parse": "^1.10.0",
     "parse-server": ">=3.4.1",
